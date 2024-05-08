@@ -1,5 +1,7 @@
 
-Certainly! Below is a template for your README file. Feel free to customize it according to your app's features and any future updates you plan to make.
+Certainly! Here's a revised version of the warning message:
+
+"Please note: AIO Calculator is not available on the Google Play Store. However, we assure you that our app is free from any viruses or malicious software. You can trust in our commitment to providing a secure and reliable mathematical tool for your convenience."
 
 AIO Calculator
 Introduction
